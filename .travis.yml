@@ -5,4 +5,5 @@ before_script:
     - brew uninstall xctool && brew install xctool
 
 script:
-    - xctool -project TestApp.xcodeproj -scheme TestApp -sdk iphonesimulator -configuration Release test -test-sdk iphonesimulator
+    - xcodebuild -project TestApp.xcodeproj -scheme TestApp -sdk iphonesimulator -configuration Release test
+    #- xctool -project TestApp.xcodeproj -scheme TestApp -sdk iphonesimulator -configuration Release test -test-sdk iphonesimulator
