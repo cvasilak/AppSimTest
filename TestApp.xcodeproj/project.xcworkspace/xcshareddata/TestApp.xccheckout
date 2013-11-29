@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F0C8AE30-16EF-4CD2-AA09-0C7B4785F519</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TestApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E470CBBB-0C96-4222-BB7B-62C65EA682AC</key>
+		<string>https://github.com/cvasilak/AppSimTest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TestApp.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E470CBBB-0C96-4222-BB7B-62C65EA682AC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/cvasilak/AppSimTest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E470CBBB-0C96-4222-BB7B-62C65EA682AC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E470CBBB-0C96-4222-BB7B-62C65EA682AC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TestApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
